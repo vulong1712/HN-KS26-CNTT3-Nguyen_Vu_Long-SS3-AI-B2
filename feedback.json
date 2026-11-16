@@ -1,0 +1,123 @@
+[
+  {
+    "sentiment": "Positive",
+    "topics": ["Product"],
+    "score": 5,
+    "summary": "Áo khoác chất lượng tốt, đường may chắc chắn và form chuẩn"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": ["Delivery", "Product"],
+    "score": 2,
+    "summary": "Giao hàng nhanh nhưng bình giữ nhiệt bị móp méo"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": ["System"],
+    "score": 1,
+    "summary": "Ứng dụng bị văng khi thanh toán làm mất mã giảm giá"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": ["Product", "Delivery"],
+    "score": 3,
+    "summary": "Sản phẩm và thời gian giao hàng tạm ổn"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": ["Service", "Delivery", "Product"],
+    "score": 5,
+    "summary": "Tư vấn nhiệt tình, shipper thân thiện và giày êm"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": ["Service"],
+    "score": 1,
+    "summary": "Shop trả lời chậm và cộc lốc với khách hàng"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": ["Delivery", "Product"],
+    "score": 1,
+    "summary": "Giao hàng cực chậm và nhận nhầm sản phẩm"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": ["System"],
+    "score": 3,
+    "summary": "Giao diện mới hơi lạ nhưng dùng quen sẽ ổn"
+  },
+  {
+    "sentiment": "Invalid",
+    "topics": ["Invalid"],
+    "score": 0,
+    "summary": "Dữ liệu phản hồi không hợp lệ"
+  },
+  {
+    "sentiment": "Invalid",
+    "topics": ["Invalid"],
+    "score": 0,
+    "summary": "Dữ liệu phản hồi không hợp lệ"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": ["Product", "Service"],
+    "score": 1,
+    "summary": "Nồi chiên hỏng nguồn và tổng đài hỗ trợ kém"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": ["Delivery"],
+    "score": 5,
+    "summary": "Shipper dễ thương, nhiệt tình giao hàng trong mưa"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": ["System", "Service"],
+    "score": 1,
+    "summary": "Hệ thống tự hủy đơn và CSKH đổ lỗi"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": ["System", "Product"],
+    "score": 5,
+    "summary": "Tính năng tìm kiếm nhạy và bàn phím chất lượng"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": ["Service"],
+    "score": 3,
+    "summary": "Nhân viên hỗ trợ điền form xuất hóa đơn"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": ["Delivery"],
+    "score": 1,
+    "summary": "Shipper tự ý báo giao thành công và văng hàng ngoài cổng"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": ["Product"],
+    "score": 5,
+    "summary": "Kem dưỡng ẩm thấm nhanh và rất đáng tiền"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": ["Product", "Delivery"],
+    "score": 4,
+    "summary": "Sách đẹp nhưng vận chuyển ngâm hàng lâu"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": ["System", "Product"],
+    "score": 1,
+    "summary": "Lỗi tồn kho app báo ảo và giao nhầm màu"
+  },
+  {
+    "sentiment": "Invalid",
+    "topics": ["Invalid"],
+    "score": 0,
+    "summary": "Dữ liệu phản hồi không hợp lệ"
+  }
+]
+```[cite: 114]
